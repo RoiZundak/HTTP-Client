@@ -1,9 +1,9 @@
 # HTTP-Client
 create HTTP request 1.0 on C 
+
 -----------------------------------------------
-login: roich
-personal details: Roi Cohen 301063814
-Ex2 - HTTP client
+personal details: Roi Cohen
+HTTP client
 
 Files:
 	1)Readme
