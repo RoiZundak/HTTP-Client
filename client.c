@@ -1,5 +1,5 @@
 /*
-Ex2-Client.c
+Client.c
 Author:Roi Cohen
 ID:301063814
 */
